@@ -10,8 +10,7 @@ public class LacoDeRepeticaoWhile {
 		
 		while(valor <= 25) {
 			System.out.println("-> valor:" + valor);
-			valor ++
-			valor += 1
+			valor += 1;
 			valor = valor + 1;
 			
 		}
